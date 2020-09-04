@@ -64,3 +64,63 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 
+Answer 5
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../.DS_Store
+        ../first-project/
+        answers.md
+
+
+Answer 6
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ../.DS_Store
+        ../first-project/
+
+
+Answer 7
+[master (root-commit) 83aab4f] Initial commit
+ 2 files changed, 68 insertions(+)
+ create mode 100644 git-lab/README.md
+ create mode 100644 git-lab/answers.md
+
+
+ Answer 8
+ commit 83aab4f6330d0fc675b78f4d7cd64c1de84cbf17 (HEAD -> master)
+Author: leahwag <lw175018@ohio.edu>
+Date:   Thu Sep 3 18:50:08 2020 -0400
+
+
+Answer 9
+On branch master
+Your branch is up to date with 'origin/master'.
+
+
+Answer 10
+no
+
+
+Answer 11
+the changes are updated
+
+
+Answer 12
+yes
